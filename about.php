@@ -816,7 +816,7 @@ nav.s-collapse .nav-menu li ul:after {
 						<div class="content" >
 							<div class="scroller">
 								
-								<h2 style="text-align:left;font-family: 'Eagle Lake', cursive;">Genero 2016</h2>
+								<!-- <h2 style="text-align:left;font-family: 'Eagle Lake', cursive;">Genero 2016</h2> -->
 								<h2 style="color:white;text-align:center;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 							</div>
 						</div>

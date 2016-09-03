@@ -54,8 +54,7 @@ background-size: 58px 58px;
 background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;height:800px;">
 			<br>	<br>
 			
-			<br><br>	<br>
-			<br>	
+			<br><br>	
 			<div class="col-md-2"></div>
 			<div class="col-md-8" align="middle" >
 				<div class="ui pointing below teal basic label animated zoomIn" style="font-size:20px;">
@@ -110,7 +109,7 @@ radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
 background-color:orange;
 background-size:16px 16px;position:relative;position:relative;height:800px;" align="middle">
 				<h2></h2>
-		<br><br><br><br><br><img class="img-responsive animated slideInUp "  height="700px" width="450px" src="events/game of thrones/1.png"></div>
+		<br><br><br><br><br><img class="img-responsive animated slideInUp "  height="700px" width="550px" src="events/game of thrones/lannister.png"></div>
 
 
 		<div class="tab  containers"   id="content-a" >

@@ -109,7 +109,7 @@ radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
 background-color:orange;
 background-size:16px 16px;position:relative;position:relative;height:800px;" align="middle">
 				<h2></h2>
-		<br><br><br><br><br><img class="img-responsive animated slideInUp "  height="700px" width="450px" src="events/game of thrones/1.png"></div>
+		<br><br><br><br><img class="img-responsive animated slideInUp "  height="700px" width="550px" src="events/game of thrones/baratheon.png"></div>
 
 
 		<div class="tab  containers"   id="content-a" >

@@ -809,7 +809,7 @@ nav.s-collapse .nav-menu li ul:after {
 							
 						</p>
 					</div>
-					<span class="bl-icon bl-icon-close"></span>
+					<span class="bl-icon bl-icon-close" ></span>
 				</section>
 				<section id="bl-work-section">
 					<div class="bl-box">

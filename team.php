@@ -576,7 +576,7 @@ sa2@genero16.in
 
 9136041523
 <br>
-contact@genero16.in
+developers@genero16.in
     <hr>
 </div>
 <div class="col-md-4 " align="middle">
@@ -585,7 +585,7 @@ contact@genero16.in
     <span style="font-size:25px;">Naveen Gupta</span><br>
 
 8285889192<br>
-contact@genero16.in
+developers@genero16.in
 <hr>
 </div>
 
@@ -596,7 +596,7 @@ contact@genero16.in
 
 9643580589
 <br>
-contact@genero16.in
+developers@genero16.in
 <hr>
     </div>
 </div>
