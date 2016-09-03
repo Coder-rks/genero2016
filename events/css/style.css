@@ -1,0 +1,314 @@
+
+    .background
+    {          
+      background-color: white;
+      box-shadow: 1px 1px 25px #888888;
+      color:white;
+    }
+    body
+    {
+      background-color: #ecf0f1;
+    }
+    /*--web-forms--*/
+.inner-content {
+    margin-top: 3em;
+}
+.strip{
+    background-color:#1abc9c;
+    height:20px;
+    width:auto;
+
+}
+
+.first-one-inner {
+    background: #fff;
+    padding: 3em;
+      border-top-left-radius: 0.3em;
+    -o-border-top-left-radius: 0.3em;
+    -moz-border-top-left-radius: 0.3em;
+    -webkit-border-top-right-radius: 0.3em;
+    border-top-right-radius: 0.3em;
+    -o-border-top-right-radius: 0.3em;
+    -moz-border-top-right-radius: 0.3em;
+    -webkit-border-top-right-radius: 0.3em;
+}
+h3.tittle {
+    text-align: center;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    color: #34495E;
+    font-size: 1.6em;
+}
+/*--first-one--*/
+.new {
+    text-align: center;
+    margin-top: 1em;
+}
+.new h3 a {
+    font-size:0.8em;
+    font-weight: 600;
+    color: #626E79;
+    text-decoration: none;
+    display: block;
+    font-family: 'Lato', sans-serif;
+}
+.first-one{
+    border-top-left-radius: 0.3em;
+    -o-border-top-left-radius: 0.3em;
+    -moz-border-top-left-radius: 0.3em;
+    -webkit-border-top-right-radius: 0.3em;
+    border-top-right-radius: 0.3em;
+    -o-border-top-right-radius: 0.3em;
+    -moz-border-top-right-radius: 0.3em;
+    -webkit-border-top-right-radius: 0.3em;
+  }
+.first-one input[type="text"],.first-one input[type="password"]{
+   width: 100%;
+    padding: 1em 4em 1em 1em;
+    color: #858282;
+    font-size: 16px;
+    outline: none;
+    background: #fff;
+    font-weight: 500;
+    border: 2px solid #bec3c7;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    margin: 0.7em 0;
+    background: url("../images/mail.png") no-repeat 296px 18px #fff;
+    transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.first-one input[type="password"]{
+      background: url("../images/lock.png") no-repeat 296px 18px #fff;
+  }
+  .first-one input[type="text"]:hover,.first-one input[type="password"]:hover{
+   border: 2px solid #1bbc9b;
+  }
+.submit {
+    text-align: center;
+    margin-top: 1em;
+    height:50px;
+    width:420px;
+}
+.first-one input[type="submit"]{
+    font-size: 17px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 15px;
+    width: 48%;
+    border: none;
+    background: #34495e;
+    border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    text-transform: uppercase;
+}
+.first-one input[type="submit"]:hover,.second-one input[type="submit"]:hover{
+  background:#1bbc9b;
+      transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+
+}
+/* Bounce To Bottom */
+a.hvr-bounce-to-bottom {
+      display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    width: 100%;
+    padding: 1.1em 1em;
+    font-size: 1.1em;
+    color: #fff;
+    background: url("../images/tw.png") no-repeat 80px 15px #2daae4;
+    text-align: center;
+      border-bottom-left-radius: 0.3em;
+    -o-border-bottom-left-radius: 0.3em;
+    -moz-border-bottom-left-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    -o-border-bottom-right-radius: 0.3em;
+    -moz-border-bottom-right-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+}
+a.hvr-bounce-to-bottoma:hover {
+    text-decoration: none;
+}
+a.hvr-bounce-to-bottom:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #2a9ed4;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50% 0;
+  transform-origin: 50% 0;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  text-decoration:none;
+      border-bottom-left-radius: 0.3em;
+    -o-border-bottom-left-radius: 0.3em;
+    -moz-border-bottom-left-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+    border-bottom-right-radius: 0.3em;
+    -o-border-bottom-right-radius: 0.3em;
+    -moz-border-bottom-right-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+
+}
+a.hvr-bounce-to-bottom:hover, a.hvr-bounce-to-bottom:focus, a.hvr-bounce-to-bottom:active {
+  color: white;
+}
+a.hvr-bounce-to-bottom:hover:before, a.hvr-bounce-to-bottom:focus:before, a.hvr-bounce-to-bottom:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+  -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+  transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
+}
+/*--//first-one--*/
+/*--/second-one--*/
+.second-one input[type="text"]{
+   width: 100%;
+    padding: 1em 4em 1em 1em;
+    color: #858282;
+    font-size: 16px;
+    outline: none;
+    background: #fff;
+    font-weight: 500;
+    border: 2px solid #bec3c7;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    margin: 0.7em 0;
+    background: url("../images/mail.png") no-repeat 296px 18px #fff;
+    transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+.second-one input[type="text"]:hover{
+   border: 2px solid #1bbc9b;
+}
+.second-one input[type="submit"] {
+    font-size: 17px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 15px 15px;
+    width: 48%;
+    border: none;
+    background: #34495e;
+    border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    text-transform: uppercase;
+}
+/*--social--*/
+.social {
+    margin-top: 3.5em;
+}
+.social-left{
+  background:#3468af;
+  text-align:center;
+  padding: 15px 0 0 0px;
+   border-bottom-left-radius: 0.3em;
+    -o-border-bottom-left-radius: 0.3em;
+    -moz-border-bottom-left-radius: 0.3em;
+      border-top-left-radius: 0.3em;
+    -o-border-top-left-radius: 0.3em;
+    -moz-border-top-left-radius: 0.3em;
+  
+}
+.social-middle{
+  background:#4fc4f6;
+     border-radius:0;
+}
+.social-right{
+  background:#e64c65;
+     border-radius:0;
+}
+.social-lost{
+  background:#334a5c;
+   border-radius:0;
+     border-bottom-right-radius: 0.3em;
+    -o-border-bottom-right-radius: 0.3em;
+    -moz-border-bottom-right-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+      border-top-right-radius: 0.3em;
+    -o-border-top-right-radius: 0.3em;
+    -moz-border-top-right-radius: 0.3em;
+    -webkit-border-top-right-radius: 0.3em;
+
+}
+.social-left span{
+  display: block;
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    background-color: #1a4e95;
+    padding: 8px 0;
+    margin-top: 15px;
+    border-bottom-left-radius: 0.3em;
+    -o-border-bottom-left-radius: 0.3em;
+    -moz-border-bottom-left-radius: 0.3em;
+
+}
+span.tw {
+    background-color: #35aadc;
+   border-radius:0;
+}
+span.gmail {
+    background-color: #cc324b;
+   border-radius:0;
+}
+span.email {
+    background-color: #193042;
+      border-bottom-right-radius: 0.3em;
+    -o-border-bottom-right-radius: 0.3em;
+    -moz-border-bottom-right-radius: 0.3em;
+    -webkit-border-bottom-right-radius: 0.3em;
+}
+.social img {
+    text-align: center;
+    margin: 0 auto;
+}
+/*--social--*/
+/*--//second-one--*/
+/*--here--*/
+.here {
+    margin: 0.2em 0;
+    text-align: center;
+}
+.first-one-inner.lost{
+  background:#1bbc9b;
+  
+}
+  
