@@ -131,76 +131,76 @@
           <!-- Santa's bio Third -->
           <article class="santas_bio bio_third bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE BARATHEON
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "Ours is the Fury"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+              "House Baratheon's sigil is a black stag on a gold background and their house motto is "Ours is the Fury". '"
             </p>
           </article>
 
           <!-- Santa's bio Fourth -->
           <article class="santas_bio bio_fourth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE LANNISTER
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "Hear Me Roar!"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+              "You have to give it to the Lannisters – they may be the most pompous, ponderous cunts the gods ever suffered to walk the world, but they do have outrageous amounts of money."
             </p>
           </article>
 
           <!-- Santa's bio Fifth -->
           <article class="santas_bio bio_fifth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE MARTELL
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "Unbowed, Unbent, Unbroken"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+              "'Unbowed, unbent, unbroken'. The words of House Martell. A promise to our enemies, and a challenge to our lovers."
             </p>
           </article>
 
           <!-- Santa's bio Sixth -->
           <article class="santas_bio bio_sixth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE GREYJOY
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "We Do Not Sow"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+              "We are ironborn. We're not subjects, we're not slaves. We do not plow the field or toil in the mine. We take what is ours."
             </p>
           </article>
 
           <!-- Santa's bio Seventh -->
           <article class="santas_bio bio_seventh bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE TYRELL
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "Growing Strong"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+              "Luckily for us Tyrells, our blood runs quite warm."
             </p>
           </article>
           <article class="santas_bio bio_eighth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
            <h2 class="whats_your_name" style="color:#c0392b;"> 
-              HOUSE TARGERYON
+              HOUSE TULLY
             </h2>
             <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
-              "Fire and Blood"
+              "Family, Duty, Honor"
             </span>
             <p class="tell_me_a_story">
-              "Half the Targaryens went mad didn't they? What's the saying? 'Every time a Targaryen is born the gods flip a coin.'"
+            "'Family, Duty, Honor.' Every Tully child learns our words. But I was a woman before I understood them."
             </p>
           </article>
           </div>
@@ -221,29 +221,33 @@
           <div class="col-lg-3 nav_sec nav_sec_first">
           
             <div class="hire_btn hire_first">
-              <a href=" tech_ce.php" style="color:white;text-decoration:none;">LITERARY STARK</a>
+              <a href=" tech_ce.php" style="color:white;text-decoration:none;">LITERARY</a>
             </div>
 
             <div class="hire_btn hire_second">
-              CULTURAL TARGERYON
+            <a href="cultural.php" style="color:white;text-decoration:none;">CULTURAL</a>
+              
             </div>
             <div class="hire_btn hire_third">
-              E-GAMING BARATHEON
+              <a href="e_gaming.php" style="color:white;text-decoration:none;">E-GAMING</a>
+
             </div>
             <div class="hire_btn hire_fourth">
-              INFORMALS LANNISTER
+            <a href="informals.php" style="color:white;text-decoration:none;">INFORMALS</a>
+
+              
             </div>
             <div class="hire_btn hire_fifth">
-              CS MARTELL
+              <a href="tech_cs.php" style="color:white;text-decoration:none;">TECH CS</a>
             </div>
             <div class="hire_btn hire_sixth">
-              CE GREYJOY
-            </div>
+                  <a href="tech_ce.php" style="color:white;text-decoration:none;">TECH CE</a>
+           </div>
             <div class="hire_btn hire_seventh">
-              ME TYRELL
+             <a href="tech_me.php" style="color:white;text-decoration:none;">TECH ME</a>
             </div>
             <div class="hire_btn hire_eighth">
-              EE TULLY
+              <a href="tech_ee.php" style="color:white;text-decoration:none;">TECH EE</a>
             </div>
           </div>
           <!-- End of Hire btn -->
