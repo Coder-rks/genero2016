@@ -150,7 +150,7 @@ body{
 
 .bodybg_second{
 	/*background: #746e7a;*/
-	background:url('2.gif');
+	background:url('6.gif');
 	background-size:cover;
 	/*background-image:url('events/1.png');*/
 	height: 100%;
@@ -160,7 +160,7 @@ body{
 
 .bodybg_third{
 	/*background: #35a491;*/
-	background:url('3.gif');
+	background:url('5.gif');
 	background-size:cover;
 	height: 100%;
 	padding: 0;
@@ -177,7 +177,7 @@ body{
 }
 
 .bodybg_fifth{
-	background:url('5.gif');
+	background:url('9.gif');
 	background-size:cover;
 	/*background: #527992;*/
 	height: 100%;
@@ -186,7 +186,7 @@ body{
 }
 
 .bodybg_sixth{
-	background:url('6.gif');
+	background:url('10.gif');
 	background-size:cover;
 	/*background: #b2323b;*/
 	height: 100%;
@@ -358,34 +358,34 @@ body{
 }
 
 .bio_first{
-	top: calc(50% - 150px);
+	top: calc(50% - 170px);
 }
 
 .bio_second{
-	top: calc(150% - 471px);
+	top: calc(150% - 501px);
 }
 
 .bio_third{
-	top: calc(250% - 792px);
+	top: calc(250% - 832px);
 }
 
 .bio_fourth{
-	top: calc(350% - 1113px);
+	top: calc(350% - 1163px);
 }
 
 .bio_fifth{
-	top: calc(450% - 1434px);
+	top: calc(450% - 1454px);
 }
 
 .bio_sixth{
-	top: calc(550% - 1755px);
+	top: calc(550% - 1785px);
 }
 
 .bio_seventh{
-	top: calc(650% - 2076px);
+	top: calc(650% - 2096px);
 }
 .bio_eighth{
-	top: calc(750% - 2397px);
+	top: calc(750% - 2407px);
 }
 
 .whats_your_name{
@@ -468,34 +468,34 @@ body{
 }
 
 .nav_sec_first{
-	top: 0;
+	top: -5%;
 }
 
 .nav_sec_second{
-	top: -100%;
+	top: -110%;
 }
 
 .nav_sec_third{
-	top: -200%;
+	top: -210%;
 }
 
 .nav_sec_fourth{
-	top: -300%;
+	top: -310%;
 }
 
 .nav_sec_fifth{
-	top: -400%;
+	top: -410%;
 }
 
 .nav_sec_sixth{
-	top: -500%;
+	top: -510%;
 }
 
 .nav_sec_seventh{
-	top: -600%;
+	top: -610%;
 }
 .nav_sec_eighth{
-	top: -700%;
+	top: -710%;
 }
 
 

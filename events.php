@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="events/component.css">
     <link rel="stylesheet" type="text/css" href="events/default.css">
     <link rel="stylesheet" type="text/css" href="index/animate.css">
+    <link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
     <!-- TypeKit-->
     <!-- <script src="//use.typekit.net/vco3fjo.js"></script> -->
     <script>try{Typekit.load();}catch(e){}</script>
@@ -42,6 +43,12 @@
           href='events/css/mobile.css' 
     />
 
+<style>
+body{
+  font-family: 'Eagle Lake', cursive;
+  font-size:12px;
+}
+</style>
   </head>
 
   <body>
@@ -101,11 +108,11 @@
           <div class="col-lg-3 bio_section bio_sec_first mobile_bio_close">
             
             <!-- Santa's bio First -->
-            <article class="santas_bio bio_first bio_visible" visible="yes" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
-              <div><h2 class="whats_your_name" style="color:#c0392b;">
+            <article class="santas_bio bio_first bio_visible" visible="yes" style="text-align:justify;color:grey;">
+              <h2 class="whats_your_name" style="color:#c0392b;">
                 HOUSE STARK
               </h2>
-              </div>
+            
               <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
                 Winter is Coming
               </span>
@@ -115,7 +122,7 @@
           </article>
 
           <!-- Santa's bio Second -->
-          <article class="santas_bio bio_second bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_second bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE TARGERYON
             </h2>
@@ -129,7 +136,7 @@
 		  
 
           <!-- Santa's bio Third -->
-          <article class="santas_bio bio_third bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_third bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE BARATHEON
             </h2>
@@ -142,7 +149,7 @@
           </article>
 
           <!-- Santa's bio Fourth -->
-          <article class="santas_bio bio_fourth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_fourth bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE LANNISTER
             </h2>
@@ -155,11 +162,11 @@
           </article>
 
           <!-- Santa's bio Fifth -->
-          <article class="santas_bio bio_fifth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_fifth bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE MARTELL
             </h2>
-            <span class="where_are_you_from" style="color:#ecf0f1;font-size:20px;">
+            <span class="where_are_you_from" style="color:#ecf0f1;font-size:15px;">
               "Unbowed, Unbent, Unbroken"
             </span>
             <p class="tell_me_a_story">
@@ -168,7 +175,7 @@
           </article>
 
           <!-- Santa's bio Sixth -->
-          <article class="santas_bio bio_sixth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_sixth bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE GREYJOY
             </h2>
@@ -181,7 +188,7 @@
           </article>
 
           <!-- Santa's bio Seventh -->
-          <article class="santas_bio bio_seventh bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_seventh bio_hide" visible="no" style="text-align:justify;color:grey;">
             <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE TYRELL
             </h2>
@@ -192,7 +199,7 @@
               "Luckily for us Tyrells, our blood runs quite warm."
             </p>
           </article>
-          <article class="santas_bio bio_eighth bio_hide" visible="no" style="font-family: 'Rajdhani', sans-serif;text-align:justify;">
+          <article class="santas_bio bio_eighth bio_hide" visible="no" style="text-align:justify;color:grey;">
            <h2 class="whats_your_name" style="color:#c0392b;"> 
               HOUSE TULLY
             </h2>

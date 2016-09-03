@@ -150,20 +150,20 @@ body{
 }
 
 .bodybg_sixth{
-	background: #b2323b;
+	background: #9b875b;
 	height: 100%;
 	padding: 0;
 	overflow: hidden;
 }
 
 .bodybg_seventh{
-	background: #9b875b;
+	background: #16a085;
 	height: 100%;
 	padding: 0;
 	overflow: hidden;
 }
 .bodybg_eighth{
-	background: #9b875b;
+	background: #8e44ad;
 	height: 100%;
 	padding: 0;
 	overflow: hidden;
@@ -236,7 +236,7 @@ body{
 
 .next_santa{
 	position: absolute;
-	top: 30px;
+	top: 65px;
 	left: 30px;
 	width: 40px;
 	height: 40px;
@@ -299,27 +299,27 @@ body{
 }
 
 .bio_sec_first{
-	top: 0;
+	top: -20%;
 }
 
 .bio_sec_second{
-	top: -100%;
+	top: -115%;
 }
 
 .bio_sec_third{
-	top: -200%;
+	top: -215%;
 }
 
 .bio_sec_fourth{
-	top: -300%;
+	top: -310%;
 }
 
 .bio_sec_fifth{
-	top: -400%;
+	top: -410%;
 }
 
 .bio_sec_sixth{
-	top: -500%;
+	top: -510%;
 }
 
 .bio_sec_seventh{
@@ -460,34 +460,34 @@ body{
 }
 
 .nav_sec_first{
-	top: 0;
+	top: -30%;
 }
 
 .nav_sec_second{
-	top: -100%;
+	top: -127%;
 }
 
 .nav_sec_third{
-	top: -200%;
+	top: -230%;
 }
 
 .nav_sec_fourth{
-	top: -300%;
+	top: -330%;
 }
 
 .nav_sec_fifth{
-	top: -400%;
+	top: -432%;
 }
 
 .nav_sec_sixth{
-	top: -500%;
+	top: -535%;
 }
 
 .nav_sec_seventh{
-	top: -600%;
+	top: -630%;
 }
 .nav_sec_eighth{
-	top:-700%;
+	top:-731%;
 }
 
 .hire_btn{

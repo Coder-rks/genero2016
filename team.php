@@ -12,7 +12,7 @@
   <!-- Material Design fonts -->
   <link href="https://fonts.googleapis.com/css?family=Dosis|Rubik" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
 <!-- Bootstrap -->
   <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
@@ -33,7 +33,8 @@
                     color:white;
                     background: url("team/10.jpg");
                     width: auto;
-           font-family: 'Rubik', sans-serif;
+           font-family: 'Eagle Lake', cursive;
+           font-size:12px;
      background-repeat: no-repeat;
     background-attachment: fixed;}
 img{
@@ -68,7 +69,7 @@ img{
 
 <div class="row">
 
-<div class="col-md-12" align="middle"><h1>SECRETARY</h1></div>
+<div class="col-md-12" align="middle"><h2>SECRETARY</h2></div>
 <div class="col-md-3"></div>
 
 <div class="col-md-3  " align="middle">
@@ -102,7 +103,7 @@ secretary@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER PROMOTIONS</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER PROMOTIONS</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -124,7 +125,7 @@ promotions@genero16.in
 </div>
 </div>
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER SPONSORSHIP</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER SPONSORSHIP</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -154,7 +155,7 @@ sponsorship@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER REGISTRATION</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER REGISTRATION</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -178,7 +179,7 @@ contact@genero16.in
 </div>
 
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER CULTURAL</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER CULTURAL</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -206,7 +207,7 @@ cultural@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER INFORMALS</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER INFORMALS</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -228,7 +229,7 @@ informals@genero16.in
 </div>
 </div>
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER E-GAMING</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER E-GAMING</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -257,7 +258,7 @@ informals@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER LITERARY</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER LITERARY</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -279,7 +280,7 @@ literary@genero16.in
 </div>
 </div>
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER TECH CS</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER TECH CS</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -308,7 +309,7 @@ cs@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER TECH CE</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER TECH CE</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -332,7 +333,7 @@ ce@genero16.in
 </div>
 </div>
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER TECH ME</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER TECH ME</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -361,7 +362,7 @@ me@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER TECH EE</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER TECH EE</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -383,7 +384,7 @@ ee@genero16.in
 </div>
 </div>
 <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER DISCIPLINE</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER DISCIPLINE</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -413,7 +414,7 @@ sponsorship@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-6">
-<div class="col-md-12" align="middle"><h1>MANAGER VIDEO & POSTER DESIGNING</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER VIDEO & POSTER DESIGNING</h2></div>
 
 <div class="col-md-6 " align="middle">
 
@@ -439,7 +440,7 @@ designing@genero16.in
 
 
 <div class="col-md-6 " align="middle">
-<h1>MANAGER INVENTORY</h1>
+<h2>MANAGER INVENTORY</h2>
 <div  class="hvr-grow"><img src="team/img/inventory.png"/></div><br>
     <span style="font-size:25px;">Ashutosh Goyal</span> <br>
 8130014664
@@ -449,7 +450,7 @@ sponsorship@genero16.in
 
 </div>
 <div class="col-md-6 " align="middle">
-<h1>MANAGER PURCHASE</h1>
+<h2>MANAGER PURCHASE</h2>
 <div  class="hvr-grow"><img src="team/img/purchase.png"/></div><br>
     <span style="font-size:25px;">Yash Goel</span>  <br>
 9716623077
@@ -472,7 +473,7 @@ promotions@genero16.in
 <div class="col-md-6">
 
 <div class="col-md-6 " align="middle">
-<h1>MANAGER LOGISTICS</h1>
+<h2>MANAGER LOGISTICS</h2>
 <div  class="hvr-grow"><img src="team/img/logistics.png"/></div><br>
     <span style="font-size:25px;">Veeresh Vishwakarma</span>   <br>
 7838025835
@@ -505,7 +506,7 @@ promotions@genero16.in
 <div class="row">
  <div class="col-md-12">
  <div class="col-md-3" align="middle">
-<div class="col-md-12" ><h1>MANAGER SA, Day1</h1></div>
+<div class="col-md-12" ><h2>MANAGER SA, Day1</h2></div>
 
  <div  class="hvr-grow"><img src="team/img/sa_1.png"/></div><br>
     <span style="font-size:25px;">Krishnan Mishra</span> <br>
@@ -518,7 +519,7 @@ sa2@genero16.in
 
  <div class="col-md-6 " align="middle">
 
-<div class="col-md-12" ><h1>MANAGER SA, Day2</h1><br><br></div>
+<div class="col-md-12" ><h2>MANAGER SA, Day2</h2><br><br></div>
 <br>
 <div class="col-md-6 " >
 
@@ -544,7 +545,7 @@ sa2@genero16.in
 
 <div class="col-md-3" align="middle">
 
-<div class="col-md-12" align="middle"><h1>MANAGER SA, Day3</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER SA, Day3</h2></div>
 
 <div  class="hvr-grow"><img src="team/img/sa_3.png"/></div><br>
     <span style="font-size:25px;">Anurag Niranjan</span>   <br>
@@ -564,7 +565,7 @@ sa2@genero16.in
 
 
 <div class="row">
-<div class="col-md-12" align="middle"><h1>MANAGER WEB & APP DESIGNING</h1></div>
+<div class="col-md-12" align="middle"><h2>MANAGER WEB & APP DESIGNING</h2></div>
 
 <div class="col-md-12">
 

@@ -18,7 +18,7 @@
 		<link rel="stylesheet" type="text/css" href="about/component.css">
 		<link rel="stylesheet" type="text/css" href="about/default.cs">
 		
-
+<link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
 
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"> </script>
@@ -33,6 +33,7 @@ body {
     margin: 0;
     /*color: #333333;*/
   overflow-x: hidden;
+  font-family: 'Eagle Lake', cursive;
 
 }
 
@@ -815,12 +816,12 @@ nav.s-collapse .nav-menu li ul:after {
 						<div class="content" >
 							<div class="scroller">
 								
-								<h2 style="text-align:left;">Genero 2016</h2>
-								<h2 style="color:white;text-align:center;">COMING SOON</h2>
+								<h2 style="text-align:left;font-family: 'Eagle Lake', cursive;">Genero 2016</h2>
+								<h2 style="color:white;text-align:center;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 							</div>
 						</div>
 					</div>
-					<div class="bb-item" id="item2">
+					<!-- <div class="bb-item" id="item2">
 						<div class="content">
 							<div class="scroller">
 								<h2>GENERO 2016</h2>
@@ -844,7 +845,7 @@ nav.s-collapse .nav-menu li ul:after {
 								<h2 style="color:white;text-align:center;">COMING SOON</h2>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					
 				</div>
 				

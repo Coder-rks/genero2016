@@ -12,6 +12,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="contact/component.css">
     <link rel="stylesheet" type="text/css" href="contact/default.css">
+     <link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
 <style>
 body{
 	background-image:url('index/home.jpg');
@@ -19,8 +20,9 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:cover;
-    font-family: 'Cinzel Decorative', cursive;
-	}
+    /*font-family: 'Cinzel Decorative', cursive;*/
+	 font-family: 'Eagle Lake', cursive;
+  }
  
 </style>
 </head>
@@ -112,7 +114,7 @@ body{
 <br>
 <div align="center" style="color:white;background-color:black;height:50px;">
 &#9400; Genero'16 <br>
-Made With &#10084; WebAndrioz
+Made With <span style="color:red;">&#10084;</span> WebAndrioz
 <br>
 </div>
 </body>

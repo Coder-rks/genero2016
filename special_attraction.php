@@ -14,7 +14,7 @@
 		<!-- <link rel="stylesheet" type="text/css" href="speacialattraction/component.css"> -->
 		<link rel="stylesheet" type="text/css" href="speacialattraction/default.css">
 		 <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
-
+     <link href="https://fonts.googleapis.com/css?family=Eagle+Lake" rel="stylesheet">
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"> </script>
   <!-- <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet"> -->
@@ -29,6 +29,7 @@ body {
     margin: 0;
     /*color: #333333;*/
   overflow-x: hidden;
+  /*font-family: 'Eagle Lake', cursive;*/
 
 }
 
@@ -799,11 +800,11 @@ nav.s-collapse .nav-menu li ul:after {
 					
 					<div class="bl-box">
 
-						<h2 class="bl-icon"><img src="speacialattraction/css/1.png"><br><span style="font-family: 'Cinzel Decorative', cursive;, cursive;color:white">STAR NIGHT</span></h2>
+						<h2 class="bl-icon"><img src="speacialattraction/css/1.png"><br><span style="color:white;font-family: 'Eagle Lake', cursive;">STAR NIGHT</span></h2>
 					</div>
 					<div class="bl-content">
 					<br><br><br><br><br><br><br><br><br><br><br><br>
-						<h2 align="center" style="color:white;">COMING SOON</h2>
+						<h2 align="center" style="color:white;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 						
 							
 						</p>
@@ -812,33 +813,33 @@ nav.s-collapse .nav-menu li ul:after {
 				</section>
 				<section id="bl-work-section">
 					<div class="bl-box">
-						<h2 class="bl-icon"><img src="speacialattraction/css/2.png"><br><span style="font-family: 'Cinzel Decorative', cursive;color:white">ASHMITA THEATRE</span></h2>
+						<h2 class="bl-icon"><img src="speacialattraction/css/2.png"><br><span style="color:white;font-family: 'Eagle Lake', cursive;">ASHMITA THEATRE</span></h2>
 					</div>
 					<div class="bl-content">
 						<br><br><br><br><br><br><br><br><br><br><br><br>
-						<h2 align="center" style="color:white;">COMING SOON</h2>
+						<h2 align="center" style="color:white;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 					</div>
 					<span class="bl-icon bl-icon-close"></span>
 				</section>
 				<section>
 					<div class="bl-box">
-						<h2 class="bl-icon "><img src="speacialattraction/css/3.png"><br><span style="font-family: 'Cinzel Decorative', cursive;color:white">DJ NIGHT</span></h2>
+						<h2 class="bl-icon "><img src="speacialattraction/css/3.png"><br><span style="color:white;font-family: 'Eagle Lake', cursive;">DJ NIGHT</span></h2>
 					</div>
 					<div class="bl-content">
 					<br><br><br><br><br><br><br><br><br><br><br><br>
-						<h2 align="center" style="color:white;">COMING SOON</h2>
+						<h2 align="center" style="color:white;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 						
 					</div>
 					<span class="bl-icon bl-icon-close"></span>
 				</section>
 				<section>
 					<div class="bl-box">
-						<h2 class="bl-icon "><img src="speacialattraction/css/4.png"><br><span style="font-family: 'Cinzel Decorative', cursive;color:white">SOCIAL FEST</span></h2>
+						<h2 class="bl-icon "><img src="speacialattraction/css/4.png"><br><span style="color:white;font-family: 'Eagle Lake', cursive;">SOCIAL FEST</span></h2>
 					</div>
 					<div class="bl-content">
 						
 <br><br><br><br><br><br><br><br><br><br><br><br>
-						<h2 align="center" style="color:white;">COMING SOON</h2>
+						<h2 align="center" style="color:white;font-family: 'Eagle Lake', cursive;">COMING SOON</h2>
 					</div>
 					<span class="bl-icon bl-icon-close"></span>
 				</section>

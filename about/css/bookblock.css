@@ -4,6 +4,7 @@
 	height: 300px;
 	position: relative;
 	background-image: url('6.jpg');
+
 	z-index: 100;
 }
 
@@ -37,6 +38,7 @@
 
 .bb-content {
 	background-image: url('6.jpg');
+
 }
 
 .bb-inner {
@@ -115,4 +117,7 @@
 	left: 0;
 	display: none;
 	background-image: url('6.jpg');
-}
+	background-size:cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+    }

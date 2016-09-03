@@ -109,11 +109,11 @@ document.location = "mobile.php";
   <div class="three wide column"><a href="gallery.php"><img src="index/gallery.png" height="150px" width="170px" class="swing" style="margin-top: -55px; animation-delay: 1.8s;-webkit-animation-delay: 0.8s;-moz-animation-delay: 0.8s;animation-delay: 0.8s;"></a></div>
   <div class="two wide column"><a href="special_attraction.php"><img src="index/special_attr.png" height="150px" width="170px" class="swing"></a>
 </div>
-<div class="two wide column"><a href="special_attraction.php"><a href="team.php"><img src="index/team1.png" height="150px" width="170px" class="swing"
+<div class="two wide column"><a href="team.php"><a href="team.php"><img src="index/team1.png" height="150px" width="170px" class="swing"
  style="margin-top: -65px; animation-delay: 0.2s;-webkit-animation-delay: 0.2s;-moz-animation-delay: 0.2s;animation-delay: 0.2s;"></a>
 </a>
 </div>
-<div class="three wide column"><a href="special_attraction.php"><img src="index/contact1.png" height="150px" width="170px" class="swing"></a>
+<div class="three wide column"><a href="contact.php"><img src="index/contact1.png" height="150px" width="170px" class="swing"></a>
 </div>
 
 
